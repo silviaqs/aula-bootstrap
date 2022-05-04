@@ -1,0 +1,58 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar {
+    background-color:rgb(111, 198, 201);
+    padding-left: 30px;
+}
+
+.quemsomos {
+    background-color: blanchedalmond;
+}
+
+.parceiros{
+    background-color: rgb(255, 212, 205);
+}
+
+.serviços {
+    background-color: rgb(205, 223, 255);
+}
+
+.teste {
+    background-color: rgb(246, 246, 246);
+}
+
+.outerContainer {
+    margin-top: 40px;
+    justify-content: center;
+  }
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.títulos-seções {
+    font-weight: 700;
+    padding-bottom: 20px;
+    color:rgb(41, 1, 79)
+}
+
+.texto-corpo {
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color:rgb(42, 42, 42);
+    text-align: justify;
+}
+
+.bg-footer {
+    background-color: #f2f2f2;
+    font-size: 10px;
+    padding-top: 15px;
+}
+
+.margin-footer {
+    padding-bottom: 3px;
+}
